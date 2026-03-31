@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://localhost:4504/sites.html/content/wknd/us/bin/franklin.delivery/asahu534/universalEditor-getting-started/main"
+    url: "http://localhost:4504/bin/franklin.delivery/asahu534/universalEditor-getting-started/main"
     type: "markup"
     suffix: ".html"
