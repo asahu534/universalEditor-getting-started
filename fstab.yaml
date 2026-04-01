@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: "https://github.com/asahu534/universalEditor-getting-started/main"
     type: "markup"
-    suffix: ".html"
+    suffix: ".md"
