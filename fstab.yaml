@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4504/bin/franklin.delivery/asahu534/universalEditor-getting-started/main"
+    url: "https://scope-manufacture-quite-libs.trycloudflare.com/bin/franklin.delivery/asahu534/universalEditor-getting-started/main"
     type: "markup"
     suffix: ".html"
