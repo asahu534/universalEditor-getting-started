@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://github.com/asahu534/universalEditor-getting-started/main"
+    url: "https://raw.githubusercontent.com/asahu534/universalEditor-getting-started/main"
     type: "markup"
     suffix: ".md"
