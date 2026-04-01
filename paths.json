@@ -1,8 +1,0 @@
-{
-  "mappings": [
-    "/content/universalEditor-getting-started/:/"
-  ],
-  "includes": [
-    "/content/universalEditor-getting-started/"
-  ]
-}
