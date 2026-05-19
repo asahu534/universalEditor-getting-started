@@ -1,5 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/asahu534/universalEditor-getting-started/blob/main"
-    type: "markup"
-    suffix: ".md"
+  /: https://docs.google.com/document/d/1MRuh4TQI3kvo6JNRM1Yg41kmYEIAcPrgPESDrtCaOG4/edit?tab=t.0
